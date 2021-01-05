@@ -5,7 +5,7 @@ public class Prob3 {
   Scanner scan = new Scanner(System.in);
   System.out.println("Enter an ASCII code: ");
   int code = scan.nextInt();
-  System.out.println((char(code);
-
+  System.out.println((char)code);
+  //*casting*(Turned number into a letter) 
   }
 }
